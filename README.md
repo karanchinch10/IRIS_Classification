@@ -1,10 +1,12 @@
 #  IRIS Flower Detection App
 ## Problem Statement:
-To determine class or cateogry of flower which its belong to base on their 4 features such as sepal length,sepal width, petal length and petal width.
+To determine class or cateogry of flower which its belong to base on their 4 features or parameters such as **sepal length,sepal width, petal length and petal width**.
 In this dataset there are toatl 3 category of flowers such as(setosa,virginica,versicolor)
 
 ![Semantic description of image](flower.jpg "Image Title")
 ## Dataset:
+IRIS dataset I have taken from Kaggle 
+<https://www.kaggle.com/datasets/uciml/iris/>
 Dataset has 5 Columns
 - Sepal length
 - Sepal Width
