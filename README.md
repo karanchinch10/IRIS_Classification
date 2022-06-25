@@ -2,7 +2,7 @@
 ## Problem Statement:
 To determine class or cateogry of flower which its belong to base on their 4 features such as sepal length,sepal width, petal length and petal width.
 
-![Semantic description of image](used_car.jpg "Image Title")
+![Semantic description of image](flower.jpg "Image Title")
 ## Content:
 Dataset has 5 Columns¶
 - Sepal length
