@@ -5,9 +5,9 @@ In this dataset there are toatl 3 category of flowers such as(setosa,virginica,v
 
 ![Semantic description of image](flower.jpg "Image Title")
 ## Dataset:
-IRIS dataset I have taken from Kaggle 
-<https://www.kaggle.com/datasets/uciml/iris/>
-Dataset has 5 Columns
+I have taken IRIS dataset from Kaggle <https://www.kaggle.com/datasets/uciml/iris/>
+
+Dataset consists of total 5 Columns
 - Sepal length
 - Sepal Width
 - Petal length
