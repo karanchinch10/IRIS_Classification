@@ -23,3 +23,6 @@ Dataset consists of total 5 Columns
 - Finally Build web application in python using streamlit library and then deploy the model 
 - <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> works too. Must be used for explicit links.
 - Technical tools or library used --Python,numpy,pandas,sklearn,matplotllib,html,css,streamlit 
+- 
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda">View on Kaggle</a> 💝
+  -  👉<a href="#">View On Github</a> 💝
